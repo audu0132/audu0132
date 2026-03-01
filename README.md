@@ -45,7 +45,7 @@ Passionate about writing clean, maintainable code and creating responsive, user-
 ## 🏆 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,nodejs,mongodb,express,js,ts,git,github,vscode,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,nodejs,mongodb,express,js,ts,git,github,vscode,react,vite" />
 </p>
 
 ---
