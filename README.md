@@ -13,20 +13,16 @@
   <a href="https://audumbar-more-portfolio-five.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A66C2?style=for-the-badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=audu0132&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
 </p>
 
 ---
 
 ## 💼 Professional Summary
 
-Results-driven **Frontend Developer** with strong expertise in **Angular, HTML, CSS, Bootstrap, and MEAN Stack development**.  
-
-Currently pursuing **MCA** with a solid academic foundation in **Computer Applications (BBA-CA)**.  
-
-Experienced in building scalable web applications including CRM systems, portfolio platforms, and UI-focused applications.  
-
-Passionate about writing clean, maintainable code and creating responsive, user-centric digital experiences.  
+Results-driven **Frontend Developer** with strong expertise in **Angular, HTML, CSS, Bootstrap, and MEAN Stack development**.
+Currently pursuing **MCA** with a solid academic foundation in **Computer Applications (BBA-CA)**.
+Experienced in building scalable web applications including CRM systems, portfolio platforms, and UI-focused applications.
+Passionate about writing clean, maintainable code and creating responsive, user-centric digital experiences.
 
 🎯 Actively seeking opportunities as a **Frontend / Angular Developer**.
 
@@ -34,11 +30,11 @@ Passionate about writing clean, maintainable code and creating responsive, user-
 
 ## 🚀 About Me
 
-- 🎓 MCA Student | Savitribai Phule Pune University  
-- 🎓 BBA (CA) Graduate  
-- 💻 Frontend Developer (Angular | HTML | CSS | Bootstrap)  
-- 🌱 Currently Learning Advanced Angular & Backend Scaling  
-- 🎯 Goal: Become a Full Stack Expert  
+- 🎓 MCA Student | Savitribai Phule Pune University
+- 🎓 BBA (CA) Graduate
+- 💻 Frontend Developer (Angular | HTML | CSS | Bootstrap)
+- 🌱 Currently Learning Advanced Angular & Backend Scaling
+- 🎯 Goal: Become a Full Stack Expert
 
 ---
 
@@ -52,11 +48,11 @@ Passionate about writing clean, maintainable code and creating responsive, user-
 
 ## 💼 Featured Projects
 
-🚀 Instagram Clone  
-🚀 CRM System (Angular + MongoDB)  
-🚀 Music App (Angular + Tailwind CSS)  
-🚀 Zomato UI Clone  
-🚀 Car Animation  
+- 🚀 Instagram Clone
+- 🚀 CRM System (Angular + MongoDB)
+- 🚀 Music App (Angular + Tailwind CSS)
+- 🚀 Zomato UI Clone
+- 🚀 Car Animation
 
 ---
 
@@ -80,12 +76,12 @@ Passionate about writing clean, maintainable code and creating responsive, user-
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="www.linkedin.com/in/audumbar-more-34290522a">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:your-audumbarmore23@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
+  <a href="https://www.linkedin.com/in/audumbar-more-34290522a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:audumbarmore23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
