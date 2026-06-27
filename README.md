@@ -1,48 +1,158 @@
-# WHERE THIS GOES:
-#   In your "audu0132/audu0132" profile repo, create the file:
-#     .github/workflows/snake.yml
-#   and paste this content in. Commit & push to "main".
-#
-# WHAT IT DOES:
-#   Runs once a day (and on every push) to regenerate an animated SVG
-#   of a snake "eating" your contribution graph, and publishes it to
-#   a branch called "output" in this same repo.
-#
-# AFTER FIRST RUN:
-#   Go to your repo's Actions tab, confirm "generate animated snake"
-#   ran successfully, then the image in your README's snake section
-#   will start rendering automatically (it points at the "output" branch).
+<div align="center">
 
-name: generate animated snake
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Audumbar%20More&fontSize=55&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20MEAN%20Stack%20Developer&descAlignY=62&animation=fadeIn" />
 
-on:
-  schedule:
-    - cron: "0 0 * * *"   # once a day at midnight UTC
-  push:
-    branches:
-      - main
-  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Angular+Specialist;MEAN+Stack+Developer;UI%2FUX+Focused+Engineer;Always+Learning+New+Things" />
 
-permissions:
-  contents: write
+<br><br>
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: generate snake animation
-        uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: audu0132
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-      - name: push generated files to the "output" branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=audu0132&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+
+<a href="https://audumbar-more-portfolio-five.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A66C2?style=for-the-badge" />
+</a>
+
+</div>
+
+<br>
+
+## 💼 Professional Summary
+
+Frontend Developer specializing in **Angular** and the **MEAN stack**, focused on building fast, responsive, and user-centric web applications. Currently pursuing an **MCA**, building on a solid foundation in Computer Applications (BBA-CA). Comfortable owning a feature end-to-end — from UI architecture to API integration — with an eye for clean code and polished detail.
+
+🎯 **Open to opportunities** as a Frontend / Angular Developer.
+
+<br>
+
+## 🚀 About Me
+
+```
+const audumbar = {
+    role: "Frontend Developer",
+    education: "MCA — Savitribai Phule Pune University",
+    stack: ["Angular", "TypeScript", "Node.js", "MongoDB", "Express"],
+    currentlyLearning: "Advanced Angular & Backend Scaling",
+    goal: "Become a Full Stack Expert",
+    funFact: "Probably debugging CSS right now 🐞"
+};
+```
+
+<br>
+
+## 🛠️ Skills & Tools
+
+<table align="center">
+<tr>
+<td align="center" valign="top" width="33%">
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap" />
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**Backend & Database**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+| Project | Tech Stack | Highlights |
+|---|---|---|
+| 🧮 **CRM System** | Angular · Node.js · Express · MongoDB | Full-stack CRM with auth, dashboards & data management |
+| 🎵 **Music App** | Angular · Tailwind CSS | Responsive music browsing & playback UI |
+| 📸 **Instagram Clone** | Angular · CSS | Pixel-faithful recreation of core Instagram UI |
+| 🍽️ **Zomato UI Clone** | HTML · CSS · Bootstrap | Restaurant discovery UI with responsive layout |
+| 🚗 **Car Animation** | CSS · JavaScript | Creative scroll/keyframe-based animation showcase |
+
+</div>
+
+> 💡 Want live demo / repo links wired in here? Send them over and I'll add them.
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=audu0132&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=audu0132&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=audu0132&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=audu0132&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=audu0132&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/audu0132/audu0132/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/audu0132/audu0132/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/audu0132/audu0132/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<!-- ⚠️ This only renders after you add the snake.yml workflow (provided alongside this file) to your profile repo and let it run once. -->
+
+<br>
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<br>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/audumbar-more-34290522a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:audumbarmore23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://audumbar-more-portfolio-five.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+<p align="center"><i>⭐ From Audumbar More | Building the Future with Code 🚀</i></p>
