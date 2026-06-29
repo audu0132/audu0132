@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,100:1B4965&height=180&section=header&text=Audumbar%20More&fontSize=46&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20MEAN%20Stack%20Developer&descAlignY=75&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,100:1B4965&height=180&section=header&text=Audumbar%20More&fontSize=46&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20Angular%20%26%20React&descAlignY=75&descSize=16" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=0A66C2&center=true&vCenter=true&width=600&lines=Frontend+Developer;Angular+Specialist;MEAN+Stack+Developer;UI%2FUX+Focused+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=0A66C2&center=true&vCenter=true&width=600&lines=Frontend+Developer;Angular+%26+React+Developer;JavaScript+%26+TypeScript;1%2B+Year+Industry+Experience" />
 </p>
 
 <p align="center">
@@ -32,19 +32,22 @@
 <br>
 
 <table width="100%">
+<tr><td align="left">📍&nbsp;&nbsp;<b>Location</b></td></tr>
+<tr><td align="left">Ahmednagar, Maharashtra</td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td align="left">💼&nbsp;&nbsp;<b>Experience</b></td></tr>
+<tr><td align="left">1 Yr — Havesys Technologies</td></tr>
+<tr><td>&nbsp;</td></tr>
 <tr><td align="left">🎓&nbsp;&nbsp;<b>Education</b></td></tr>
-<tr><td align="left">MCA — SPPU</td></tr>
+<tr><td align="left">MCA — SPPU (2024–2026)</td></tr>
 <tr><td>&nbsp;</td></tr>
-<tr><td align="left">💼&nbsp;&nbsp;<b>Focus Area</b></td></tr>
-<tr><td align="left">Angular · MEAN Stack</td></tr>
-<tr><td>&nbsp;</td></tr>
-<tr><td align="left">🌱&nbsp;&nbsp;<b>Learning</b></td></tr>
-<tr><td align="left">Advanced Angular & Backend Scaling</td></tr>
+<tr><td align="left">🧭&nbsp;&nbsp;<b>Focus Area</b></td></tr>
+<tr><td align="left">Angular & React</td></tr>
 </table>
 
 ---
 
-> 🟢 **Open to Frontend / Angular roles**
+> 🟢 **Open to Frontend / Angular / React roles**
 
 ---
 
@@ -58,7 +61,7 @@
 
 **Core Stack**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,mongodb,git&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,tailwind,mongodb,mysql,git,github,bitbucket,vscode&theme=light" />
 
 <br><br>
 
@@ -66,14 +69,14 @@
 
 <table width="100%">
 <tr><td align="left">Angular</td><td align="right">▰▰▰▰▱</td></tr>
+<tr><td align="left">React</td><td align="right">▰▰▰▰▱</td></tr>
+<tr><td align="left">JavaScript</td><td align="right">▰▰▰▰▰</td></tr>
+<tr><td align="left">TypeScript</td><td align="right">▰▰▰▰▱</td></tr>
 <tr><td align="left">HTML / CSS</td><td align="right">▰▰▰▰▰</td></tr>
-<tr><td align="left">JavaScript</td><td align="right">▰▰▰▰▱</td></tr>
-<tr><td align="left">TypeScript</td><td align="right">▰▰▰▱▱</td></tr>
-<tr><td align="left">Node.js</td><td align="right">▰▰▰▱▱</td></tr>
-<tr><td align="left">MongoDB</td><td align="right">▰▰▰▱▱</td></tr>
+<tr><td align="left">MongoDB / SQL</td><td align="right">▰▰▰▱▱</td></tr>
 </table>
 
-<sub><i>Levels are estimates — adjust to match your own self-rating.</i></sub>
+<sub><i>Based on your resume — adjust if needed.</i></sub>
 
 </td>
 
@@ -81,7 +84,20 @@
 
 ### Professional Summary
 
-Frontend Developer specializing in **Angular** and the **MEAN stack**, focused on building fast, responsive, and user-centric web applications. Currently pursuing an **MCA**, with a solid foundation in Computer Applications (BBA-CA). Comfortable owning a feature end-to-end — from UI architecture to API integration — with an eye for clean code and polished detail.
+Frontend Developer with **1 year of professional experience** at Havesys Technologies, specializing in **Angular, React, TypeScript, and JavaScript**. Currently pursuing an **MCA** at Savitribai Phule Pune University, built on a BCA foundation in Computer Applications. Experienced in building responsive, component-based web and mobile applications, integrating RESTful APIs, and delivering clean, user-focused UI/UX.
+
+<br>
+
+### Work Experience
+
+**Associate – Technology** · Havesys Technologies Pvt. Ltd. &nbsp;|&nbsp; *Jun 2025 – Jun 2026*
+
+- Built and maintained web & mobile applications using React, React Native, JavaScript, HTML, CSS, and Bootstrap
+- Built reusable UI components and integrated RESTful APIs for seamless frontend–backend data flow
+- Contributed to **Sprdnow.com** — a WhatsApp marketing SaaS platform with campaign management, chatbot flows, and broadcast features
+- Worked on a **Marathi matrimonial** web + Android app for biodata creation and profile matching
+- Developed UI modules for **MahaRERA Info App**, a React Native app for Maharashtra real estate regulatory data
+- Collaborated cross-functionally, participated in code reviews, and maintained coding standards using Git & Bitbucket
 
 <br>
 
@@ -95,21 +111,27 @@ Frontend Developer specializing in **Angular** and the **MEAN stack**, focused o
 <th align="left">Links</th>
 </tr>
 <tr>
-<td><b>CRM System</b></td>
-<td>Angular · Node.js · Express · MongoDB</td>
-<td>Full-stack CRM with auth, dashboards & data management</td>
+<td><b>CRM Management System</b><br><sub>Jan 2025</sub></td>
+<td>Angular · Tailwind CSS · MongoDB</td>
+<td>Responsive dashboards & reusable components for managing customer data and leads</td>
 <td><a href="#">Repo</a> · <a href="#">Demo</a></td>
 </tr>
 <tr>
-<td><b>Music App</b></td>
-<td>Angular · Tailwind CSS</td>
-<td>Responsive music browsing & playback UI</td>
+<td><b>Travel Management System</b><br><sub>Jan 2024</sub></td>
+<td>Angular · Bootstrap</td>
+<td>Responsive interfaces for trip selection, booking & administration</td>
 <td><a href="#">Repo</a> · <a href="#">Demo</a></td>
 </tr>
 <tr>
 <td><b>Instagram Clone</b></td>
 <td>Angular · CSS</td>
 <td>Faithful recreation of core Instagram UI</td>
+<td><a href="#">Repo</a> · <a href="#">Demo</a></td>
+</tr>
+<tr>
+<td><b>Music App</b></td>
+<td>Angular · Tailwind CSS</td>
+<td>Responsive music browsing & playback UI</td>
 <td><a href="#">Repo</a> · <a href="#">Demo</a></td>
 </tr>
 <tr>
@@ -126,7 +148,7 @@ Frontend Developer specializing in **Angular** and the **MEAN stack**, focused o
 </tr>
 </table>
 
-<sub><i>"Repo" and "Demo" are placeholders — send me the URLs and I'll wire them in.</i></sub>
+<sub><i>"Repo" and "Demo" are still placeholders — send the URLs and I'll wire them in.</i></sub>
 
 <br>
 
@@ -155,12 +177,10 @@ Frontend Developer specializing in **Angular** and the **MEAN stack**, focused o
 ### Experience & Education
 
 <table width="100%">
-<tr><td width="18%" valign="top"><b>[Add years]</b></td><td valign="top">Master of Computer Applications (MCA) — Savitribai Phule Pune University</td></tr>
-<tr><td width="18%" valign="top"><b>[Add years]</b></td><td valign="top">BBA — Computer Applications</td></tr>
-<tr><td width="18%" valign="top"><b>[Add years]</b></td><td valign="top"><i>[Add internship / job title, company]</i></td></tr>
+<tr><td width="22%" valign="top"><b>Jun 2025 – Jun 2026</b></td><td valign="top">Associate – Technology, Havesys Technologies Pvt. Ltd.</td></tr>
+<tr><td width="22%" valign="top"><b>Sep 2024 – Apr 2026</b></td><td valign="top">Master of Computer Applications (MCA), Savitribai Phule Pune University</td></tr>
+<tr><td width="22%" valign="top"><b>Jun 2021 – Apr 2024</b></td><td valign="top">BCA (Computer Applications), Savitribai Phule Pune University — 7.58 CGPA</td></tr>
 </table>
-
-<sub><i>Fill in real dates/roles above — placeholders left intentionally rather than guessed.</i></sub>
 
 <br>
 
