@@ -7,11 +7,13 @@
 <p align="center">
   <a href="https://audumbar-more-portfolio-five.vercel.app/">Portfolio</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/audumbar-more-34290522a">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="mailto:audumbarmore23@gmail.com">Email</a>
+  <a href="mailto:audumbarmore23@gmail.com">Email</a> &nbsp;•&nbsp;
+  <a href="https://raw.githubusercontent.com/audu0132/audu0132/main/resume.pdf">Resume</a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2EA44F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Resume-Download-0A66C2?style=flat-square&logo=read-the-docs&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=audu0132&label=Profile%20Views&color=0A2540&style=flat-square" />
 </p>
 
@@ -58,6 +60,21 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,mongodb,git&theme=light" />
 
+<br><br>
+
+**Proficiency**
+
+<table width="100%">
+<tr><td align="left">Angular</td><td align="right">▰▰▰▰▱</td></tr>
+<tr><td align="left">HTML / CSS</td><td align="right">▰▰▰▰▰</td></tr>
+<tr><td align="left">JavaScript</td><td align="right">▰▰▰▰▱</td></tr>
+<tr><td align="left">TypeScript</td><td align="right">▰▰▰▱▱</td></tr>
+<tr><td align="left">Node.js</td><td align="right">▰▰▰▱▱</td></tr>
+<tr><td align="left">MongoDB</td><td align="right">▰▰▰▱▱</td></tr>
+</table>
+
+<sub><i>Levels are estimates — adjust to match your own self-rating.</i></sub>
+
 </td>
 
 <td width="70%" valign="top">
@@ -75,41 +92,41 @@ Frontend Developer specializing in **Angular** and the **MEAN stack**, focused o
 <th align="left">Project</th>
 <th align="left">Tech Stack</th>
 <th align="left">Highlight</th>
-<th align="left">Status</th>
+<th align="left">Links</th>
 </tr>
 <tr>
 <td><b>CRM System</b></td>
 <td>Angular · Node.js · Express · MongoDB</td>
 <td>Full-stack CRM with auth, dashboards & data management</td>
-<td><img src="https://img.shields.io/badge/Completed-2EA44F?style=flat-square"/></td>
+<td><a href="#">Repo</a> · <a href="#">Demo</a></td>
 </tr>
 <tr>
 <td><b>Music App</b></td>
 <td>Angular · Tailwind CSS</td>
 <td>Responsive music browsing & playback UI</td>
-<td><img src="https://img.shields.io/badge/Completed-2EA44F?style=flat-square"/></td>
+<td><a href="#">Repo</a> · <a href="#">Demo</a></td>
 </tr>
 <tr>
 <td><b>Instagram Clone</b></td>
 <td>Angular · CSS</td>
 <td>Faithful recreation of core Instagram UI</td>
-<td><img src="https://img.shields.io/badge/Completed-2EA44F?style=flat-square"/></td>
+<td><a href="#">Repo</a> · <a href="#">Demo</a></td>
 </tr>
 <tr>
 <td><b>Zomato UI Clone</b></td>
 <td>HTML · CSS · Bootstrap</td>
 <td>Restaurant discovery UI with responsive layout</td>
-<td><img src="https://img.shields.io/badge/Completed-2EA44F?style=flat-square"/></td>
+<td><a href="#">Repo</a> · <a href="#">Demo</a></td>
 </tr>
 <tr>
 <td><b>Car Animation</b></td>
 <td>CSS · JavaScript</td>
 <td>Scroll/keyframe-based animation showcase</td>
-<td><img src="https://img.shields.io/badge/Completed-2EA44F?style=flat-square"/></td>
+<td><a href="#">Repo</a> · <a href="#">Demo</a></td>
 </tr>
 </table>
 
-<sub><i>Repository and live demo links available on request.</i></sub>
+<sub><i>"Repo" and "Demo" are placeholders — send me the URLs and I'll wire them in.</i></sub>
 
 <br>
 
@@ -132,6 +149,18 @@ Frontend Developer specializing in **Angular** and the **MEAN stack**, focused o
 
 </tr>
 </table>
+
+<br>
+
+### Experience & Education
+
+<table width="100%">
+<tr><td width="18%" valign="top"><b>[Add years]</b></td><td valign="top">Master of Computer Applications (MCA) — Savitribai Phule Pune University</td></tr>
+<tr><td width="18%" valign="top"><b>[Add years]</b></td><td valign="top">BBA — Computer Applications</td></tr>
+<tr><td width="18%" valign="top"><b>[Add years]</b></td><td valign="top"><i>[Add internship / job title, company]</i></td></tr>
+</table>
+
+<sub><i>Fill in real dates/roles above — placeholders left intentionally rather than guessed.</i></sub>
 
 <br>
 
