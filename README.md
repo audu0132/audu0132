@@ -1,158 +1,140 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,100:1B4965&height=180&section=header&text=Audumbar%20More&fontSize=46&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20MEAN%20Stack%20Developer&descAlignY=75&descSize=16" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Audumbar%20More&fontSize=55&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20MEAN%20Stack%20Developer&descAlignY=62&animation=fadeIn" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=0A66C2&center=true&vCenter=true&width=600&lines=Frontend+Developer;Angular+Specialist;MEAN+Stack+Developer;UI%2FUX+Focused+Engineer" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Angular+Specialist;MEAN+Stack+Developer;UI%2FUX+Focused+Engineer;Always+Learning+New+Things" />
+<p align="center">
+  <a href="https://audumbar-more-portfolio-five.vercel.app/">Portfolio</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/audumbar-more-34290522a">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="mailto:audumbarmore23@gmail.com">Email</a>
+</p>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=audu0132&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
-
-<a href="https://audumbar-more-portfolio-five.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A66C2?style=for-the-badge" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2EA44F?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=audu0132&label=Profile%20Views&color=0A2540&style=flat-square" />
+</p>
 
 <br>
 
-## 💼 Professional Summary
-
-Frontend Developer specializing in **Angular** and the **MEAN stack**, focused on building fast, responsive, and user-centric web applications. Currently pursuing an **MCA**, building on a solid foundation in Computer Applications (BBA-CA). Comfortable owning a feature end-to-end — from UI architecture to API integration — with an eye for clean code and polished detail.
-
-🎯 **Open to opportunities** as a Frontend / Angular Developer.
-
-<br>
-
-## 🚀 About Me
-
-```
-const audumbar = {
-    role: "Frontend Developer",
-    education: "MCA — Savitribai Phule Pune University",
-    stack: ["Angular", "TypeScript", "Node.js", "MongoDB", "Express"],
-    currentlyLearning: "Advanced Angular & Backend Scaling",
-    goal: "Become a Full Stack Expert",
-    funFact: "Probably debugging CSS right now 🐞"
-};
-```
-
-<br>
-
-## 🛠️ Skills & Tools
-
-<table align="center">
+<table width="100%" cellpadding="15" cellspacing="0" border="0">
 <tr>
-<td align="center" valign="top" width="33%">
 
-**Frontend**
+<td width="30%" valign="top" align="center">
+
+<img src="https://ui-avatars.com/api/?name=Audumbar+More&background=0A2540&color=ffffff&size=110&rounded=true&bold=true" />
+
+### Audumbar More
+**Frontend Developer**
+
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap" />
+
+<table width="100%">
+<tr><td align="left">🎓&nbsp;&nbsp;<b>Education</b></td></tr>
+<tr><td align="left">MCA — SPPU</td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td align="left">💼&nbsp;&nbsp;<b>Focus Area</b></td></tr>
+<tr><td align="left">Angular · MEAN Stack</td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td align="left">🌱&nbsp;&nbsp;<b>Learning</b></td></tr>
+<tr><td align="left">Advanced Angular & Backend Scaling</td></tr>
+</table>
+
+---
+
+> 🟢 **Open to Frontend / Angular roles**
+
+---
+
+**Connect**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/audumbar-more-34290522a)
+[![Email](https://img.shields.io/badge/Email-0A2540?style=flat-square&logo=gmail&logoColor=white)](mailto:audumbarmore23@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=vercel&logoColor=white)](https://audumbar-more-portfolio-five.vercel.app/)
+
+---
+
+**Core Stack**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,mongodb,git&theme=light" />
 
 </td>
-<td align="center" valign="top" width="33%">
 
-**Backend & Database**
+<td width="70%" valign="top">
+
+### Professional Summary
+
+Frontend Developer specializing in **Angular** and the **MEAN stack**, focused on building fast, responsive, and user-centric web applications. Currently pursuing an **MCA**, with a solid foundation in Computer Applications (BBA-CA). Comfortable owning a feature end-to-end — from UI architecture to API integration — with an eye for clean code and polished detail.
+
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+### Featured Projects
+
+<table width="100%">
+<tr>
+<th align="left">Project</th>
+<th align="left">Tech Stack</th>
+<th align="left">Highlight</th>
+<th align="left">Status</th>
+</tr>
+<tr>
+<td><b>CRM System</b></td>
+<td>Angular · Node.js · Express · MongoDB</td>
+<td>Full-stack CRM with auth, dashboards & data management</td>
+<td><img src="https://img.shields.io/badge/Completed-2EA44F?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>Music App</b></td>
+<td>Angular · Tailwind CSS</td>
+<td>Responsive music browsing & playback UI</td>
+<td><img src="https://img.shields.io/badge/Completed-2EA44F?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>Instagram Clone</b></td>
+<td>Angular · CSS</td>
+<td>Faithful recreation of core Instagram UI</td>
+<td><img src="https://img.shields.io/badge/Completed-2EA44F?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>Zomato UI Clone</b></td>
+<td>HTML · CSS · Bootstrap</td>
+<td>Restaurant discovery UI with responsive layout</td>
+<td><img src="https://img.shields.io/badge/Completed-2EA44F?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>Car Animation</b></td>
+<td>CSS · JavaScript</td>
+<td>Scroll/keyframe-based animation showcase</td>
+<td><img src="https://img.shields.io/badge/Completed-2EA44F?style=flat-square"/></td>
+</tr>
+</table>
+
+<sub><i>Repository and live demo links available on request.</i></sub>
+
+<br>
+
+### GitHub Analytics
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=audu0132&show_icons=true&hide_border=true&title_color=0A2540&text_color=333333&icon_color=0A66C2&bg_color=ffffff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=audu0132&layout=compact&hide_border=true&title_color=0A2540&text_color=333333&bg_color=ffffff" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=audu0132&hide_border=true&background=ffffff&stroke=0A2540&ring=0A66C2&fire=0A66C2&currStreakLabel=0A2540&sideLabels=333333&currStreakNum=0A2540&sideNums=333333&dates=666666" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=audu0132&theme=flat&no-frame=true&row=1&column=6&margin-w=8" />
+</p>
 
 </td>
-<td align="center" valign="top" width="33%">
 
-**Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vite" />
-
-</td>
 </tr>
 </table>
 
 <br>
 
-## 🌟 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,100:1B4965&height=100&section=footer" width="100%"/>
 
-<div align="center">
-
-| Project | Tech Stack | Highlights |
-|---|---|---|
-| 🧮 **CRM System** | Angular · Node.js · Express · MongoDB | Full-stack CRM with auth, dashboards & data management |
-| 🎵 **Music App** | Angular · Tailwind CSS | Responsive music browsing & playback UI |
-| 📸 **Instagram Clone** | Angular · CSS | Pixel-faithful recreation of core Instagram UI |
-| 🍽️ **Zomato UI Clone** | HTML · CSS · Bootstrap | Restaurant discovery UI with responsive layout |
-| 🚗 **Car Animation** | CSS · JavaScript | Creative scroll/keyframe-based animation showcase |
-
-</div>
-
-> 💡 Want live demo / repo links wired in here? Send them over and I'll add them.
-
-<br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=audu0132&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=audu0132&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=audu0132&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=audu0132&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=audu0132&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/audu0132/audu0132/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/audu0132/audu0132/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/audu0132/audu0132/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<!-- ⚠️ This only renders after you add the snake.yml workflow (provided alongside this file) to your profile repo and let it run once. -->
-
-<br>
-
-## 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<br>
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/audumbar-more-34290522a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:audumbarmore23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://audumbar-more-portfolio-five.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-
-<p align="center"><i>⭐ From Audumbar More | Building the Future with Code 🚀</i></p>
+<p align="center"><sub>Audumbar More — Frontend Developer</sub></p>
