@@ -93,7 +93,7 @@
 
 🏢 Havesys Technologies Pvt Ltd
 
-📅 June 2025 - Present
+📅 June 2025 - 2026
 
 ✔ Developed Responsive Web Applications
 
